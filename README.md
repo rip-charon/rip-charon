@@ -1,6 +1,4 @@
-<div align="center">
-<h2>CHARON :<img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
-</div>
+# CHARON :
 
 ![alt text](https://m.media-amazon.com/images/I/81LSP0rGz1L._SS500_.jpg)
 
@@ -13,9 +11,10 @@
 
 </br>
 </br>
-<i>Random dev joke for you! (create your own by clicking here ↓)</i><br>
-<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</br>
 
+<a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
+</div>
 ---
 
 ## Reach Me : 
