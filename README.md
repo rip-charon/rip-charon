@@ -1,6 +1,8 @@
 <div align="center">
-##CHARON 
+## CHARON
   
+</br>
+
 ![alt text](https://m.media-amazon.com/images/I/81LSP0rGz1L._SS500_.jpg)
 
 👆 WANNA READ MY STORY 👆
